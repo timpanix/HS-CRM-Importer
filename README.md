@@ -14,3 +14,5 @@ This app uses the following APIs:<br><ul>
 http://www.phpclasses.org/package/6279-PHP-Parse-and-retrieve-data-from-Excel-XLS-files.html</li></ul>
 
 A big thank you goes to Sergey Shuchkin for his SimpleXLSX API. Particularly his examples made the first part of this project a breeze.
+
+PLEASE NOTE: The files are currently configured to be run on localhost. If used on production server, all references to cacert.pem need to be removed. 
