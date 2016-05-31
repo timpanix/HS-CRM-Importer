@@ -15,4 +15,4 @@ http://www.phpclasses.org/package/6279-PHP-Parse-and-retrieve-data-from-Excel-XL
 
 A big thank you goes to Sergey Shuchkin for his SimpleXLSX API. Particularly his examples made the first part of this project a breeze.
 
-PLEASE NOTE: The files are currently configured to be run on localhost. If used on production server, all references to cacert.pem need to be removed. 
+PLEASE NOTE: The files are currently configured to run on localhost. If used on production server please use the live version.
