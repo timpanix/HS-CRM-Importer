@@ -1,4 +1,4 @@
-# HS-CRM-Importer - Localhost version
+# HS-CRM-Importer - Localhost Version
 
 At the time of writing the HubSpot CRM has limited offline functionality. It is possible to create contacts, companies and deals offline. They can then be imported into the system via CSV import. However, it is currently not possible to log Sales Activities offline and then bring them into the system in a straight forward fashion. The only options are manual copy & paste or setting up your own API connector.
 <br>This app provides a simple upload functionality to automate this process:
@@ -15,4 +15,4 @@ http://www.phpclasses.org/package/6279-PHP-Parse-and-retrieve-data-from-Excel-XL
 
 A big thank you goes to Sergey Shuchkin for his SimpleXLSX API. Particularly his examples made the first part of this project a breeze.
 
-PLEASE NOTE: The files are currently configured to run on localhost. If used on production server please use the live version.
+PLEASE NOTE: The files are currently configured to run on localhost. If used on production server please use <a href='https://github.com/timpanix/HS-CRM-Importer-LiveCode'>this repo</a> instead.
